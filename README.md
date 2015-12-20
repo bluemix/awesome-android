@@ -1087,8 +1087,6 @@ And this project is not using the image file!
 
 
 #### <A NAME="Toast"></A>Toast
-1. **Crouton**      Context sensitive notifications for Android      
-[https://github.com/keyboardsurfer/Crouton](https://github.com/keyboardsurfer/Crouton)  
 1. **SuperToasts** A library that extends the Android toast framework.    
 [https://github.com/JohnPersano/SuperToasts](https://github.com/JohnPersano/SuperToasts)
 1. **Android-AppMsg**   In-layout notifications. Based on Toast notifications and article by Cyril Mottier      
